@@ -1,0 +1,18 @@
+<svg width="500" height="500" viewBox="0 0 680 680" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>squelch303 avatar</title>
+  <desc>Square avatar for squelch303 — waveform and 303 on black background</desc>
+
+  <style>
+    .num { font-family: monospace; font-weight: 700; font-size: 180px; fill: #c8f000; }
+    .sub { font-family: monospace; font-weight: 400; font-size: 52px; fill: #c8f000; letter-spacing: 10px; }
+  </style>
+
+  <rect width="680" height="680" rx="0" fill="#111"/>
+
+  <polyline fill="none" stroke="#c8f000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"
+    points="80,220 130,220 165,140 205,300 245,140 285,300 325,200 375,220 440,220"/>
+  <line x1="440" y1="220" x2="600" y2="220" stroke="#c8f000" stroke-width="6" stroke-linecap="round" opacity="0.35"/>
+
+  <text x="340" y="500" class="num" text-anchor="middle">303</text>
+  <text x="340" y="580" class="sub" text-anchor="middle">squelch</text>
+</svg>

@@ -10,6 +10,5 @@ Built at [soundstation.net](https://soundstation.net) — acid-tested, no fluff.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [rekordbox-key-tool](https://github.com/squelch303/rekordbox-key-tool) | Convert MIK-exported keys to Camelot notation in rekordbox.xml | 🟢 Active |
-| [dj-trackfix](https://github.com/squelch303/dj-trackfix) | Audio file conversion and metadata tools for DJs | 🚧 WIP |
-
+| [rekordbox-key-tool](https://github.com/squelch303/rekordbox-key-tool) | Convert MIK-exported keys to Camelot notation in rekordbox.xml | 🟢 v1.0.0 |
+| [dj-trackfix](https://github.com/squelch303/dj-trackfix) | Convert, fix, tag and sort audio files for rekordbox | 🟢 v0.2.1 |
