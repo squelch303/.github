@@ -2,7 +2,7 @@
 
 Tools and utilities for DJs and producers. Underground electronic.
 
-Built at [soundstation.net](https://soundstation.net) — acid-tested, no fluff.
+Acid-tested, no fluff.
 
 ---
 
